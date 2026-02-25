@@ -16,11 +16,10 @@ export default function About() {
           
           <div className="prose prose-invert max-w-none">
             <p className="mb-8 text-lg leading-relaxed md:text-xl">
-              Cinema has been a part of my life for as long as I can remember. Growing up surrounded by films, 
-              I learnt very early on that it means more to me than just entertainment. Every film I watch leaves me 
-              with something to carry forward, shaping how I see the world. Playing even a small role to create 
-              something that has the magic to change the way people think and feel is what truly drives me. That&apos;s why 
-              I see cinema as the most powerful form of storytelling. It&apos;s personal, transformative, and impactful.
+I’m an Assistant Director who enjoys the quiet work that holds a film together. 
+I like being where ideas take shape between planning and the chaos of set life. 
+From prep to shoot days, I focus on clarity and keeping things moving smoothly. Curious by nature and drawn to stories, 
+I’m learning with every project I’m part of.
             </p>
 
             <h2 className="mt-12 mb-6 text-2xl font-bold md:text-3xl">Education</h2>
